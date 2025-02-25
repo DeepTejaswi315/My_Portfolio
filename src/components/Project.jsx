@@ -13,7 +13,7 @@ const Project = ({ darkMode }) => {
       description:
         "A personal portfolio website showcasing projects, skills, and experiences. Designed with modern UI principles and responsive design.",
       logo: port,
-      sourceLink: "https://github.com/username/portfolio",
+      sourceLink: "https://github.com/DeepTejaswi315/My_Portfolio",
       visitLink: "/videos/portfolio-demo.mp4", // Local or hosted video link
     },
     {
